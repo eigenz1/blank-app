@@ -1,6 +1,13 @@
 import streamlit as st
 
 st.title("🎈 이상한 나라의 초대장")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+st.markdown(
+"""
+🕵️‍♀️ **미스터리의 비밀을 풀어드립니다!**  
+사라진 사건, 무서운 전설, 이상한 이야기까지…  
+알쏭달쏭하고 궁금한 이야기를 쉽고 재미있게 전해드립니다.  
+
+👻 **당신의 호기심을 채워줄 미스터리 탐험!**  
+🛎️ 구독하고 새로운 이야기를 만나보세요!  
+"""
 )
